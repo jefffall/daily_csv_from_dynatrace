@@ -1,0 +1,1 @@
+10 10 * * * (/home/yourloginID/dynatrace/job.py > /home/yourloginID/dynatrace/joboutput.txt   )

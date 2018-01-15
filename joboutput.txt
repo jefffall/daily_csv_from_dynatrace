@@ -1,0 +1,14 @@
+2018-01-15 10:10:03 START:  SWIN: 240 BEG: 01.14.2018_00:00:00 END: 01.14.2018_23:59:59
+requesting from: 2018-01-14 00:00:00 to 2018-01-14 04:00:00
+Length test results is 125464
+requesting from: 2018-01-14 04:00:00 to 2018-01-14 08:00:00
+Length test results is 124426
+requesting from: 2018-01-14 08:00:00 to 2018-01-14 12:00:00
+Length test results is 125487
+requesting from: 2018-01-14 12:00:00 to 2018-01-14 16:00:00
+Length test results is 124790
+requesting from: 2018-01-14 16:00:00 to 2018-01-14 20:00:00
+Length test results is 121035
+requesting from: 2018-01-14 20:00:00 to 2018-01-15 00:00:00
+Length test results is 124919
+2018-01-15 10:12:44 FINISH: SWIN: 240 BEG: 01.14.2018_00:00:00 END: 01.14.2018_23:59:59 RUNBEG: 2018-01-15 10:10:03 RUNEND: 2018-01-15 10:12:44 ELAPSED: 0:02:40.282322 RECORDS: 5566 MINDATE: 2018-01-13 23:59:55 MAXDATE: 2018-01-14 23:58:55
